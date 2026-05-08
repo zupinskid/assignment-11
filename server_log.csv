@@ -1,0 +1,14 @@
+##############################################
+# The columns represent different sysadmin responsibilities, API mornitoring, database performance, etc.
+# Note the empty cell, the double comma ,, is treated as NaN when Pandas read it.
+# Ensure you remove this comment section before reading it with Pandas
+##############################################
+Timestamp,Login_API,Database_Query,File_Upload,Auth_Service
+2026-04-01 08:00,120,450,1200,85
+2026-04-01 09:00,135,,1150,90
+2026-04-01 10:00,110,480,,78
+2026-04-01 11:00,,510,1300,92
+2026-04-01 12:00,150,600,1400,
+2026-04-01 13:00,125,420,1100,88
+2026-04-01 14:00,140,,1250,95
+2026-04-01 15:00,130,470,1180,82
